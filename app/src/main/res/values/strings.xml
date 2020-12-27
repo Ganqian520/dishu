@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Diglett</string>
+    <string name="helloworld">helloWorld</string>
+    <string name="begin">开始</string>
+</resources>
